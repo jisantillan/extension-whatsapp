@@ -1,10 +1,7 @@
 package org.extension;
 
-
-import org.domingus.interfaces.Notifier;
 import org.domingus.interfaces.Observer;
 
-@Notifier
 public class ExtensionWhatsapp implements Observer {
 
     @Override
